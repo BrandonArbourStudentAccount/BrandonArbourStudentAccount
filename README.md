@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- Network Engineerng Student @ Mohaw College
+- Network Engineerng Student @ Mohawk College
 <!--
 **BrandonArbourStudentAccount/BrandonArbourStudentAccount** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
